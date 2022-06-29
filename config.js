@@ -1,43 +1,43 @@
 //=============『 Utama 』================== //
-global.owner = ['6285781468932'] 
+global.owner = ['6285831340391'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Rellz'
-global.numberowner = '6285781468932'
-global.instagram = 'https://instagram.com/rell.2007'
-global.github = 'https://github.com/Farel-Md229'
-global.dana = '082122013831'
-global.pulsa = '082122013831'
-global.gopay = '082122013831'
+global.nameowner = 'Kelvin'
+global.numberowner = '6285831340391'
+global.instagram = 'https://instagram.com/ainul_181'
+global.github = 'https://github.com/AinulBot'
+global.dana = '083838498248'
+global.pulsa = '085831340391'
+global.gopay = 'gada'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Sakura Bot'
-global.gc = 'https://chat.whatsapp.com/ISy3Hdt3tur2Q1Ik1IZ1s7'
-global.web = 'https://chat.whatsapp.com/ISy3Hdt3tur2Q1Ik1IZ1s7' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 15.000\n2 Minggu 10.000\n1 Minggu 5.000'
+global.namebot = 'Kelvin - Bot'
+global.gc = 'https://chat.whatsapp.com/GNxewWY7HysHwjKst94Pid'
+global.web = 'https://chat.whatsapp.com/GNxewWY7HysHwjKst94Pid' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = '1 bulan = 20.000\n2 Minggu 10.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/Sakura-Bot-06-28' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/Sakura-Bot-06-28' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/Kevin-Bot-06-29' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/Kevin-Bot-06-29' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Sakura Bot'
+global.wm = 'Kelvin Bot'
 global.watermark = wm
 global.wm2 = '                     「 Sakura Bot」'
-global.wm3 = '⫹⫺ Sakura Bot'
+global.wm3 = '⫹⫺ Kelvin Bot'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/Sakura-Bot-06-28'
+global.media = 'https://telegra.ph/Kevin-Bot-06-29'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = '© Rellz'
-global.author = 'Di Buat Oleh Sakura Bot'
+global.packname = '© Kelvin Store'
+global.author = 'Di Buat Oleh Kelvin Bot'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
